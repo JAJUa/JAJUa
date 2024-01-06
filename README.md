@@ -6,8 +6,9 @@
 ✨연락처✨
 
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/asj05291@naver.com-30B980?style=flat-square&logo=minutemailer&logoColor=white"/> <img src="https://img.shields.io/badge/prettyjuna52-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-
 <br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 
 <br/> <br/> <br/>
 🌱포트폴리오🌱
