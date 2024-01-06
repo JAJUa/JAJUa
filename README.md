@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Pretty_Duna&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAJUa&show_icons=true&theme=radical)
+
 <!--
 **JAJUa/JAJUa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
